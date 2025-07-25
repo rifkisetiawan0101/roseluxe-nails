@@ -1,4 +1,4 @@
-# ✨ Panduan Pengelolaan Website RoséLuxe Nails ✨
+# ✨ Panduan Mengelola Website RoséLuxe Nails ✨
 
 [https://roseluxenails.wordpress.com/](https://roseluxenails.wordpress.com/)
 
