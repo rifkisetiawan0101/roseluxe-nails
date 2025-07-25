@@ -31,7 +31,7 @@ Semua gambar yang akan diunggah ke website disimpan dalam satu folder utama bern
 
 ---
 
-## 2. Cara Menambahkan PRODUK Baru 💅
+## 💅 2. Cara Menambahkan PRODUK Baru
 
 Di website ini, "Produk" dikelola menggunakan fitur **Portfolio**.
 
@@ -50,7 +50,7 @@ P.S. Cara cepat untuk menambahkan products bisa dengan "Duplicate" projects yang
 
 ---
 
-## 3. Cara Menambahkan ARTIKEL BLOG Baru 📖
+## 📖 3. Cara Menambahkan ARTIKEL BLOG Baru
 
 Artikel blog dikelola melalui menu **Post**. Gunakan untuk berbagi artikel seperti tips, tren, atau cerita.
 
@@ -66,7 +66,7 @@ Artikel blog dikelola melalui menu **Post**. Gunakan untuk berbagi artikel seper
 6.  **Atur Gambar Unggulan:** Sama seperti produk, cari kotak **"Gambar Unggulan" (Featured Image)** di sebelah kanan. Unggah gambar yang relevan dari folder `posts (blog)` di komputer kamu.
 7.  Setelah selesai, klik tombol biru **"Terbitkan" (Publish)**. ✅ Artikel kamu akan muncul di halaman "Blog".
 
-## 4. Cara Mengedit Halaman Statis 📄
+## 📄 4. Cara Mengedit Halaman Statis
 
 Halaman statis adalah halaman yang isinya jarang berubah, seperti halaman profil atau kontak.
 
