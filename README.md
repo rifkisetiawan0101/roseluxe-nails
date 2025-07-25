@@ -1,6 +1,6 @@
 # ✨ Panduan Mengelola Website RoséLuxe Nails ✨
 
-[https://roseluxenails.wordpress.com/](https://roseluxenails.wordpress.com/)
+Live link : [https://roseluxenails.wordpress.com/](https://roseluxenails.wordpress.com/)
 
 Halo!
 
