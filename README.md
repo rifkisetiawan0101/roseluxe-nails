@@ -1,16 +1,15 @@
 # ✨ Panduan Mengelola Website RoséLuxe Nails ✨
 
----
-
-Live link : [https://roseluxenails.wordpress.com/](https://roseluxenails.wordpress.com/)
-
----
 
 Halo!
 
 Selamat datang di panduan pengelolaan website RoséLuxe Nails. Dokumen ini dibuat untuk membantu kamu mengelola, memperbarui, dan menambahkan konten ke website dengan mudah.
 
 Mari kita mulai! 🚀
+
+---
+
+Live link : [https://roseluxenails.wordpress.com/](https://roseluxenails.wordpress.com/)
 
 ---
 
